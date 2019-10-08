@@ -7,10 +7,10 @@ Json can be used to store and configure data.
 
 Json is just amazing.
 Json Data types:-
-1.Arrays
-2.Objects
-3.Boolean
-4.Numbers
-5.String
-6.Null
+*Arrays
+*Objects
+*Boolean
+*Numbers
+*String
+*Null
 
